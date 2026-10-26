@@ -102,7 +102,7 @@ $language_data = array (
         GESHI_COMMENTS => false,
         1 => false,
         2 => false,
-        3 => false,
+        3 => false
         ),
     'STYLES' => array(
         'KEYWORDS' => array(
